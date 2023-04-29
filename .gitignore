@@ -6,3 +6,10 @@ env
 __pycache__
 .venv
 .cache
+./pgdata
+/pgdata/*
+./web-django
+./web-static
+pgdata/
+web-django/
+web-static/
